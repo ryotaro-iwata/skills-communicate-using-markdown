@@ -6,3 +6,6 @@
 ```C#
 int a = 4;
 ```
+- [x] index0
+- [ ] index2
+- [ ] index3
